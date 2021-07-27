@@ -1,5 +1,5 @@
-# abootimg for Termux(aarch64)
-# For install run sh install.sh
+## abootimg for Termux(aarch64)
+## For install run sh install.sh
 
  abootimg - manipulate Android Boot Images.
  ------------------------------------------
