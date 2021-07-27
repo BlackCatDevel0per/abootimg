@@ -1,3 +1,5 @@
+# abootimg for Termux(aarch64)
+
  abootimg - manipulate Android Boot Images.
  ------------------------------------------
 
@@ -288,5 +290,6 @@ On the other hand, manipulating the block device allows abootimg to prevent
 most of the stupid mistakes which can be made when writing boot image with dd
 (overwriting another filesystem, writing a boot image bigger than the 
 partition, writing the wrong file or an invalid partition, ...)
+
 
 
